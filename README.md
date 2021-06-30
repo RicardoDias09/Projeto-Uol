@@ -1,2 +1,0 @@
-# Projeto-Uol
-Projeto Desenvolvido
